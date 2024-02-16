@@ -11,4 +11,3 @@ PRODUCT_MAKEFILES := \
 COMMON_LUNCH_CHOICES := \
     omni_TECNO-BA2-user \
     omni_TECNO-BA2-userdebug \
-    omni_TECNO-BA2-eng
