@@ -7,4 +7,3 @@
 
 add_lunch_combo omni_TECNO-BA2-user
 add_lunch_combo omni_TECNO-BA2-userdebug
-add_lunch_combo omni_TECNO-BA2-eng
