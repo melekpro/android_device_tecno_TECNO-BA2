@@ -7,7 +7,3 @@
 
 PRODUCT_MAKEFILES := \
     $(device/tecno/TECNO-BA2)/omni_TECNO-BA2.mk
-
-COMMON_LUNCH_CHOICES := \
-    omni_TECNO-BA2-user \
-    omni_TECNO-BA2-userdebug \
